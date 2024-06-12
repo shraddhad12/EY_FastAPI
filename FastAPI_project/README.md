@@ -12,4 +12,5 @@ cd /EY_FastAPI/FastAPI_project/
 
 # To run the application run the below command
 python -m app.app
+OR
 uvicorn app.app:app --reload
